@@ -1,0 +1,20 @@
+# Site settings
+author: Ashley Rodriguez
+title: 
+header-img: img/home-bg.png
+email: arodriguez1030@gmail.com
+copyright_name: Ashley Rodriguez
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  arodriguez1030
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
