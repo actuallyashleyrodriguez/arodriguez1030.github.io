@@ -1,11 +1,11 @@
 # Site settings
 author: Ashley Rodriguez
-title: 
+title: From Elevators to Coding
 header-img: img/home-bg.png
 email: arodriguez1030@gmail.com
 copyright_name: Ashley Rodriguez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My path to Changing Careers
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  arodriguez1030
